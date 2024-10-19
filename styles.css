@@ -1,0 +1,1559 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #123aebe0;
+}
+
+header {
+    background-color: #333;
+    color: hwb(260 1% 93%);
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #080000;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #080000;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #000000;
+    color: #0bb8cf;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(2, 0, 0, 0.1);
+}
+
+h2 {
+    color: #f5f3f3;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+/* Fotoğraf Galerisi Stilleri */
+.foto-galeri {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.foto-galeri img {
+    width: 45%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Projelerim Sayfası Arka Plan Rengi */
+section {
+    background-color: #000;
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    color: #fff; /* Metin rengi beyaz yapıldı */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Fotoğraf Galerisi Stilleri */
+.foto-galeri {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.foto-galeri img {
+    width: 45%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2); /* Beyaz gölge eklendi */
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* İletişim Sayfası Arka Plan Rengi */
+.iletisim-section {
+    background-color: #ffc0cb; /* Pembe arka plan */
+    color: #333; /* Metin rengi */
+    border-radius: 10px;
+}
+
+/* Fotoğraf Galerisi Stilleri */
+.foto-galeri {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.foto-galeri img {
+    width: 45%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Anket Sayfası Arka Plan Rengi */
+.anket-section {
+    background-color: #ffeb3b; /* Sarı arka plan */
+    color: #333; /* Metin rengi */
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Anket Sayfası Arka Plan Rengi */
+.anket-section {
+    background-color: #ffeb3b; /* Sarı arka plan */
+    color: #333; /* Metin rengi */
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* İletişim Sayfası Arka Plan Rengi */
+.iletisim-section {
+    background-color: #ffc0cb; /* Pembe arka plan */
+    color: #333; /* Metin rengi */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Form Elemanları Stilleri */
+.form-input, .form-textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.form-textarea {
+    height: 100px;
+}
+
+.form-button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+    background-color: #555;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* İletişim Sayfası Arka Plan Rengi */
+.iletisim-section {
+    background-color: #ffc0cb; /* Pembe arka plan */
+    color: #333; /* Metin rengi */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Form Elemanları Stilleri */
+.form-heart {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+
+.form-textarea {
+    height: 100px;
+}
+
+.form-button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+    background-color: #555;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* İletişim Sayfası Arka Plan Rengi */
+.iletisim-section {
+    background-color: #ffc0cb; /* Pembe arka plan */
+    color: #333; /* Metin rengi */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Form Elemanları Stilleri */
+.form-heart {
+    width: 50%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    box-sizing: border-box;
+    background-color: #fff;
+    background-clip: padding-box;
+    position: relative;
+    display: inline-block;
+}
+
+.form-heart::before, .form-heart::after {
+    content: "";
+    width: 20px;
+    height: 35px;
+    border-radius: 20px 20px 0 0;
+    background: #fff;
+    position: absolute;
+    top: -17px;
+    left: 50%;
+    transform: translateX(-50%) rotate(-45deg);
+    transform-origin: 0 100%;
+}
+
+.form-heart::after {
+    left: calc(50% + 10px);
+    transform: translateX(-50%) rotate(45deg);
+    transform-origin: 100% 100%;
+}
+
+.form-heart[type="textarea"] {
+    height: 100px;
+}
+
+.form-button {
+    background-color: #333;
+    color: #df1212;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+    background-color: #555;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Anket Sayfası Arka Plan Rengi */
+.anket-section {
+    background-color: #ffeb3b; /* Sarı arka plan */
+    color: #333; /* Metin rengi */
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Anket Sayfası Arka Plan Rengi */
+.anket-section {
+    background-color: #ffeb3b; /* Sarı arka plan */
+    color: #333; /* Metin rengi */
+    border-radius: 10px;
+}
+
+.round-checkbox {
+    appearance: none;
+    background-color: #fff;
+    border: 2px solid #333;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    position: relative;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.round-checkbox:checked {
+    background-color: #333;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Anket Sayfası Arka Plan Rengi */
+.anket-section {
+    background-color: #ffeb3b; /* Sarı arka plan */
+    color: #333; /* Metin rengi */
+    border-radius: 10px;
+}
+
+.round-input {
+    appearance: none;
+    background-color: #fff;
+    border: 2px solid #333;
+    border-radius: 50%;
+    width: 20px; /* Aynı boyutta yapıldı */
+    height: 20px; /* Aynı boyutta yapıldı */
+    cursor: pointer;
+    position: relative;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.round-input:checked {
+    background-color: #333;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* İletişim Sayfası Arka Plan Rengi */
+.iletisim-section {
+    background-color: #ffc0cb; /* Pembe arka plan */
+    color: #333; /* Metin rengi */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Form Elemanları Stilleri */
+.form-heart {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    box-sizing: border-box;
+    position: relative;
+    display: inline-block;
+    background-clip: padding-box;
+}
+
+.form-heart::before, .form-heart::after {
+    content: "";
+    width: 20px;
+    height: 35px;
+    border-radius: 20px 20px 0 0;
+    background: #fff;
+    position: absolute;
+    top: -17px;
+    left: 50%;
+    transform: translateX(-50%) rotate(-45deg);
+    transform-origin: 0 100%;
+}
+
+.form-heart::after {
+    left: calc(50% + 10px);
+    transform: translateX(-50%) rotate(45deg);
+    transform-origin: 100% 100%;
+}
+
+.form-input {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin: 10px 0;
+}
+
+/* Metin kutusu daha büyük */
+textarea.form-input {
+    height: 100px;
+}
+
+.form-button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+    background-color: #555;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* İletişim Sayfası Arka Plan Rengi */
+.iletisim-section {
+    background-color: #ffc0cb; /* Pembe arka plan */
+    color: #333; /* Metin rengi */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Form Elemanları Stilleri */
+.form-heart {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    box-sizing: border-box;
+    background-color: #fff;
+    background-clip: padding-box;
+    position: relative;
+    display: inline-block;
+}
+
+.form-heart::before, .form-heart::after {
+    content: "";
+    width: 20px;
+    height: 35px;
+    border-radius: 20px 20px 0 0;
+    background: #fff;
+    position: absolute;
+    top: -17px;
+    left: 50%;
+    transform: translateX(-50%) rotate(-45deg);
+    transform-origin: 0 100%;
+}
+
+.form-heart::after {
+    left: calc(50% + 10px);
+    transform: translateX(-50%) rotate(45deg);
+    transform-origin: 100% 100%;
+}
+
+.form-textarea {
+    height: 100px;
+}
+
+.form-button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+    background-color: #555;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* İletişim Sayfası Arka Plan Rengi */
+.iletisim-section {
+    background-color: #ffc0cb; /* Pembe arka plan */
+    color: #333; /* Metin rengi */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Form Elemanları Stilleri */
+.form-heart {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    box-sizing: border-box;
+    background-color: #fff;
+    background-clip: padding-box;
+    position: relative;
+    display: inline-block;
+}
+
+.form-heart::before, .form-heart::after {
+    content: "";
+    width: 20px;
+    height: 35px;
+    border-radius: 20px 20px 0 0;
+    background: #fff;
+    position: absolute;
+    top: -17px;
+    left: 50%;
+    transform: translateX(-50%) rotate(-45deg);
+    transform-origin: 0 100%;
+}
+
+.form-heart::after {
+    left: calc(50% + 10px);
+    transform: translateX(-50%) rotate(45deg);
+    transform-origin: 100% 100%;
+}
+
+.form-textarea {
+    height: 100px;
+}
+
+.form-button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+    background-color: #555;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* İletişim Sayfası Arka Plan Rengi */
+.iletisim-section {
+    background-color: #ffc0cb; /* Pembe arka plan */
+    color: #333; /* Metin rengi */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Form Elemanları Stilleri */
+.form-heart {
+    width: 80%;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    box-sizing: border-box;
+    background-color: #fff;
+    background-clip: padding-box;
+    position: relative;
+    display: inline-block;
+}
+
+.form-heart::before, .form-heart::after {
+    content: "";
+    width: 15px;
+    height: 25px;
+    border-radius: 15px 15px 0 0;
+    background: #fff;
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%) rotate(-45deg);
+    transform-origin: 0 100%;
+}
+
+.form-heart::after {
+    left: calc(50% + 8px);
+    transform: translateX(-50%) rotate(45deg);
+    transform-origin: 100% 100%;
+}
+
+.form-textarea {
+    height: 80px;
+}
+
+.form-button {
+    background-color: #b61414;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+    background-color: #555;
+}
+
+/* Resim Galerisi Stilleri */
+.resim-section {
+    background-color: #f4f4f4; /* Beyaz arka plan */
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.resim-galeri {
+    display: flex;
+    justify-content: space-around;
+}
+
+.resim-galeri img {
+    width: 45%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #f10505;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #f50303;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* İletişim Sayfası Arka Plan Rengi */
+.iletisim-section {
+    background-color: #ffc0cb; /* Pembe arka plan */
+    color: #d30e0e; /* Metin rengi */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(117, 68, 68, 0.2);
+}
+
+/* Form ve Resim Galerisi Konteyneri */
+.form-resim-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Form Elemanları Stilleri */
+.form-heart {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    box-sizing: border-box;
+    background-color: #fff;
+    background-clip: padding-box;
+    position: relative;
+    display: inline-block;
+}
+
+.form-heart::before, .form-heart::after {
+    content: "";
+    width: 15px;
+    height: 25px;
+    border-radius: 15px 15px 0 0;
+    background: #fff;
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%) rotate(-45deg);
+    transform-origin: 0 100%;
+}
+
+.form-heart::after {
+    left: calc(50% + 8px);
+    transform: translateX(-50%) rotate(45deg);
+    transform-origin: 100% 100%;
+}
+
+.form-textarea {
+    height: 80px;
+}
+
+.form-button {
+    background-color: #c00a0a;
+    color: #ec1414;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+    background-color: #e90b0b;
+}
+
+/* Resim Galerisi Stilleri */
+.resim-galeri {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+.resim-galeri img {
+    width: 100px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #ec0b0b;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ec0404;
+}
+
+header {
+    background-color: #c40202;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #db0b0b;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(177, 33, 33, 0.1);
+}
+
+/* İletişim Sayfası Arka Plan Rengi */
+.iletisim-section {
+    background-color: #fdc9d2; /* Pembe arka plan */
+    color: #ee0cee; /* Metin rengi */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(235, 46, 46, 0.2);
+}
+
+/* Form ve Resim Galerisi Konteyneri */
+.form-resim-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Form Elemanları Stilleri */
+.form-heart {
+    width: 80%;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #f117b0;
+    border-radius: 50px;
+    box-sizing: border-box;
+    background-color: #f0e10c;
+    background-clip: padding-box;
+    position: relative;
+    display: inline-block;
+}
+
+.form-heart::before, .form-heart::after {
+    content: "";
+    width: 15px;
+    height: 25px;
+    border-radius: 15px 15px 0 0;
+    background: #c23737;
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%) rotate(-45deg);
+    transform-origin: 0 100%;
+}
+
+.form-heart::after {
+    left: calc(50% + 8px);
+    transform: translateX(-50%) rotate(45deg);
+    transform-origin: 100% 100%;
+}
+
+.form-textarea {
+    height: 80px;
+}
+
+.form-button {
+    background-color: #e6e20b;
+    color: #d81ed8;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+    background-color: #555;
+}
+
+/* Resim Galerisi Stilleri */
+.resim-galeri {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+.resim-galeri .resim-ust {
+    width: 100px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(197, 60, 60, 0.2);
+    margin-bottom: 10px;
+    align-self: center;
+}
+
+.resim-galeri .resim {
+    width: 100px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(131, 56, 56, 0.2);
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #d44747;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fded05;
+}
+
+header {
+    background-color: #000000;
+    color: #eff30d;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #e6f513;
+    text-decoration: none;
+}
+
+/* Anket Sayfası Arka Plan Rengi */
+.anket-section {
+    background-color: #fffb27; /* Sarı arka plan */
+    color: #f71988; /* Metin rengi */
+    border-radius: 10px;
+}
+
+.round-input {
+    appearance: none;
+    background-color: #f511cf;
+    border: 2px solid rgb(253, 24, 150);
+    border-radius: 50%;
+    width: 20px; /* Aynı boyutta yapıldı */
+    height: 20px; /* Aynı boyutta yapıldı */
+    cursor: pointer;
+    position: relative;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.round-input:checked {
+    background-color: #011016;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #eeff07;
+    color: #02000e;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .form-resim-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .form-heart, .form-textarea {
+        width: 90%;
+    }
+
+    .resim-galeri {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .resim-galeri img {
+        width: 80px;
+        height: 80px;
+        margin: 10px;
+    }
+
+    header, nav ul li, footer {
+        text-align: center;
+    }
+
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+}
+
+
